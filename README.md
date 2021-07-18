@@ -1,2 +1,2 @@
 # Face-Attendance
-It is attendance project which give us name and time of joining
+It is a attendance project which give us name and time of joining
